@@ -1,2 +1,4 @@
 # Portfolio
-http://127.0.0.1:5500/index.html
+https://stately-rolypoly-7c42b6.netlify.app/
+Use this link to see my Portfolio Demo
+Copy and paste the URL
